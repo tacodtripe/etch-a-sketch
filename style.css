@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+header {
+    width: 300px;
+    position: relative;
+    margin: 10px auto;
+}
+
+.newDivs {
+    border: lightgray solid 0.5px;
+}
+
+.button-wrapper {
+    width: 300px;
+    position: relative;
+    margin: 10px auto;
+}
