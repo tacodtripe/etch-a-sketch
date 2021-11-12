@@ -4,7 +4,7 @@
 
 ![screenshot](./app_screenshot.jpg)
 
-This is a Microverse JS pre-course projec, I was required to exercise the use of basic JS to create an online Etch a Sketch.
+This is a Microverse JS pre-course project, I was required to exercise the use of basic JS to create an online Etch a Sketch.
 
 Find the live version of this project here [live version](https://raw.githack.com/tacodtripe/etch-a-sketch/master/index.html)
 
